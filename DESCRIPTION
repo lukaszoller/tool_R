@@ -1,0 +1,17 @@
+Package: zollerTools
+Type: Package
+Title: Some functions which I always forget.
+Version: 0.0.1
+Author: LZ
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: A test package from the R course at BFH. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    data.table
+RoxygenNote: 7.1.0
